@@ -11,3 +11,4 @@ For this assignment I want you to watch the following two videos and create your
 
 1.  Put the screenshot of your image in your Docker account here.
 ![image](docker_image.png)
+![image](docker_image_layers.png)
